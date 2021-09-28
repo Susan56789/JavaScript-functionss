@@ -52,3 +52,8 @@ text.regularFunction();
 text.arrowFunction();
 
 // call() method
+// apply() method
+/*bind() method :
+creates a new copy of a function then change the context to another object
+*/
+//eval function
